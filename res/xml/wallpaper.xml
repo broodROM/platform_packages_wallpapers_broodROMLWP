@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+    
+<wallpaper  
+   android:settingsActivity="com.broodrom.lwp..android.wallpaper.MyPreferencesActivity"  
+   xmlns:android="http://schemas.android.com/apk/res/android"  
+   android:description="@string/wallpaper_description"  
+   android:thumbnail="@drawable/ic_launcher" />
+    
+
